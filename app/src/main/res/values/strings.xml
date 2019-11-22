@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WordExplore</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dictionary</string>
+    <string name="title_notifications">Game</string>
+    <string name="games_for_you">Games for\n" "YOU!!</string>
+    <string name="_4">4</string>
+    <string name="anagram">Anagram</string>
+    <string name="word">Trivia</string>
+    <string name="word_to_find">Word To Find</string>
+    <string name="validate">Validate</string>
+    <string name="new_game">New Game</string>
+    <string name="questions">The room is ---- because it is crowded.\n\n1. Stale"     "2. Stuffy\n3. Blue"      4. Noisy</string>
+    <string name="trophy">Hard Work Pays Off! Keep it up!!</string>
+    <string name="option1">Option 1</string>
+    <string name="option2">Option 2</string>
+    <string name="option3">Option 3</string>
+    <string name="option4">Option 4</string>
+    <string name="portrait_logo">Portrait Logo</string>
+    <string name="about_us"><u>About Us</u></string>
+    <string name="link1">Link 1</string>
+    <string name="link2">Link 2 </string>
+    <string name="welcomeText">Welcome to WordExplore! We are so excited to have you here. Use this app to play, develop and improve your vocabulary using the very useful video links, dictionary feature and fun games!</string>
+    <string name="todo">TODO</string>
+    <string name="videoTitle"><u>CLICK HERE FOR SOME FUN VIDEO LINKS!</u></string>
+    <string name="vidTitle"><u>FUN VIDEO CONTENT!</u></string>
+    <string name="gameinfo">Click on one of the 2 game buttons below to embark on a fun and exciting learning journey! Pressing the game button will start the game so be ready to jump straight into action!</string>
+</resources>
